@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # project
 
 ### npm version
@@ -32,3 +33,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# Software-course-design
+The client side of the indoor pedestrian system are built
+using the Vue3 frame  
+>>>>>>> 5666095c7ddb50b13efa876ed4c49545cbacbbaa
