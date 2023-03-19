@@ -1,2 +1,3 @@
 # Software-course-design
-The client side and server side of the indoor pedestrian system are built
+The client side of the indoor pedestrian system are built
+Use the Vue3 frame
