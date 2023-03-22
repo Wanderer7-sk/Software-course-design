@@ -31,3 +31,5 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 =======
+
+Because the project needed to connect the path data passed from the external back end and then display the pedestrian path on the indoor pedestrian map, the project needed to connect an external back end in order to function properly
